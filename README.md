@@ -13,6 +13,10 @@ I am going to use 1/8 inch acrylic here because the color was cool. The original
 
 I will laser cut mine
 
+*Wiring**
+The whole thing hinges on a USB C ch334f hub board, which takes a USB C cable and basically splits it into a usb hub. In this way, I can add my keyboard as one usb device, and down the road I can add two magnetic connectors which can have all sorts of different modules added onto them. 
+<img width="970" height="728" alt="image" src="https://github.com/user-attachments/assets/7d2515b1-ad64-4abd-88f7-5d5140d48799" />
+
 
 **The Case**
 The case in this repo is best 3D Printed. You'll need a special printer- in this case I'll use an Ender 5. It needs to have a hefty volume- the keyboard is 350mm long so make sure to account for that. The keyboard faces accomodate two 4 pin adafruit magnetic connectors and a USB C ch334f hub board 
