@@ -16,6 +16,8 @@ I will laser cut mine
 
 **The Case**
 The case in this repo is best 3D Printed. You'll need a special printer- in this case I'll use an Ender 5. It needs to have a hefty volume- the keyboard is 350mm long so make sure to account for that. The keyboard faces accomodate two 4 pin adafruit magnetic connectors and a USB C ch334f hub board 
+
+You can also print it out in two pieces with pins to attach. 
 <img width="1153" height="499" alt="image" src="https://github.com/user-attachments/assets/75f6d3f2-6d1f-4f0c-9000-44efc4cb0c18" />
 **Wiring**
 Basically you're wiring a usb hub to magnetic connectors, and a molex connector on the PCB. Customize however you want
